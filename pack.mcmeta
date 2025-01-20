@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 63,
+        "description": "A Logger service for Minecraft Datapacks"
+    }
+}
