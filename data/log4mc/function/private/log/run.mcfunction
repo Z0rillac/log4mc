@@ -1,0 +1,1 @@
+$function log4mc:private/raw_log/run {m:"@@@ [$(state): $(gametime)][$(level): $(namespace)] $(message)"}

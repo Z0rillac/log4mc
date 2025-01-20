@@ -1,0 +1,1 @@
+data modify storage log4mc:history root append from storage log4mc:main
