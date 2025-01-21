@@ -1,4 +1,8 @@
-function log4mc:private/history/dump/clipboard/render with storage log4mc:history root[0]
+function log4mc:log_format with storage log4mc:history root[0]
+data modify storage log4mc:macro concat set from storage log4mc:macro final
+data modify storage log4mc:macro current set from storage log4mc:clipboard root
+function log4mc:private/history/dump/clipboard/concat with storage log4mc:macro
+
 data modify storage log4mc:history root append from storage log4mc:history root[0]
 data remove storage log4mc:history root[0]
 
