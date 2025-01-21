@@ -1,3 +1,3 @@
-function log4mc:tick {namespace:"mypack"}
+function #tick_logger {namespace:"mypack"}
 
-function log4mc:trace {m:"tick"}
+function #trace {m:"tick"}
