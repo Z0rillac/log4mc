@@ -1,0 +1,1 @@
+$tellraw @s {"text":"[Click to Copy][Click to Copy][Click to Copy][Click to Copy]","click_event":{"action":"copy_to_clipboard","value":"$(clipboard)"}}

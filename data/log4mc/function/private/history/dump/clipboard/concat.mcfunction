@@ -1,0 +1,1 @@
+$data modify storage log4mc:clipboard root set value "$(current)$(concat)$(eol)"

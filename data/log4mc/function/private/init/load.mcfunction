@@ -10,6 +10,8 @@ execute if score ready log4mc.main = #true log4mc.enum in log4mc: run forceload 
 
 function log4mc:private/init/special_chars
 data merge storage log4mc:main {}
+data merge storage log4mc:macro {}
 data merge storage log4mc:history {}
+data merge storage log4mc:clipboard {root:""}
 
 function log4mc:private/raw_log/run {m:"@@@ Log4MC is ready! All messages starting with '@@@' are datapack console logs."}
