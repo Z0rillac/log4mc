@@ -21,7 +21,7 @@ Logging in code is common and extremely frequent, and it's tiring to have to fol
  - We can use a single letter for the macro name, `m` logically identifiable as “message”.  
 
 In this way, we have the following functions :  
-```
+```mcfunction
 function trace {m:"<message>"}
 function debug {m:"<message>"}
 function info {m:"<message>"}
@@ -41,7 +41,7 @@ Using a function tag in the default namespace rather than a function makes sense
  - Using a function tag rather than a function costs nothing more than adding a `#`.  
 
 In this way, we have the following functions :  
-```
+```mcfunction
 function #trace {m:"<message>"}
 function #debug {m:"<message>"}
 function #info {m:"<message>"}
@@ -59,7 +59,7 @@ For this purpose, the choice of a function to be called in the user's initializa
  - Another feature enabled by this approach is the identification of the tick and call time of a logging function.
 
 In this way, we have the following new functions :  
-```
+```mcfunction
 function #load_logger {namespace:"<namespace>"}
 function #tick_logger {namespace:"<namespace>"}
 ```
