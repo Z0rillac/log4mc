@@ -1,1 +1,1 @@
-$tellraw @s {"text":"[Click to Copy][Click to Copy][Click to Copy][Click to Copy]","click_event":{"action":"copy_to_clipboard","value":"$(clipboard)"}}
+$tellraw @s [{"text":"Logs dumped! ","color":"gold"},{"text":"[CLICK HERE TO COPY]","color":"green","click_event":{"action":"copy_to_clipboard","value":"$(clipboard)"}},{"text":" ","color":"green"},{"text":"(?)","color":"gray","hover_event":{"action":"show_text","value":"The logs have been removed from the history. Click to copy and save them elsewhere for further analysis."}}]
