@@ -1,5 +1,5 @@
 {
     "values": [
-        "log4mc:info"
+        "log4mc:private/log/info/run"
     ]
 }
