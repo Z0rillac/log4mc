@@ -1,5 +1,3 @@
-scoreboard objectives add log4mc.enum dummy
-
 scoreboard players set #false log4mc.enum 0
 scoreboard players set #true log4mc.enum 1
 

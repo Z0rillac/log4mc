@@ -1,5 +1,5 @@
 {
     "values": [
-        "log4mc:load"
+        "log4mc:private/logger_init/load/run"
     ]
 }
