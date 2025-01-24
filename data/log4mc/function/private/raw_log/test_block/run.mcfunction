@@ -1,0 +1,1 @@
+execute in log4mc: positioned 0 0 0 run function log4mc:private/raw_log/test_block/1 with storage log4mc:macro
