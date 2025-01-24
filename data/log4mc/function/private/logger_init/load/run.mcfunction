@@ -1,6 +1,6 @@
 function log4mc:private/module_manager/load/run
 
-execute if score can_load log4mc matches 0 if score first_load log4mc matches 1 run say §cEnable to load Log4MC ! Please restart your world.
+execute if score can_load log4mc matches 0 if score first_load log4mc matches 1 run say §c@@@ Enable to load Log4MC ! Please restart your world.
 execute if score can_load log4mc matches 0 run return fail
 execute if score can_load log4mc matches 1 if score first_load log4mc matches 1 run function log4mc:private/logger_init/load/load
 
