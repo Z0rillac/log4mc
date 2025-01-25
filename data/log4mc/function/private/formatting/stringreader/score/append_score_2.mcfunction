@@ -1,2 +1,2 @@
-$execute store result storage log4mc:macro string int 1 run scoreboard players get $(score)
-function log4mc:private/formatting/stringbuilder/append/run
+$execute store result storage log4mc:macro string int 1 store success score score_exists log4mc.temp run scoreboard players get $(score)
+execute if score score_exists log4mc.temp matches 1 run function log4mc:private/formatting/stringbuilder/append/run
