@@ -1,3 +1,10 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" alt="light" srcset="docs/banner_dark.svg" width="600px">
+    <img alt="light" src="docs/banner_light.svg" width="600px">
+  </picture>
+</div>
+
 # Log4MC
 Log4MC is logger for datapacks.  
 It is an attempt to match the standard logging APIs of other programming languages.  
