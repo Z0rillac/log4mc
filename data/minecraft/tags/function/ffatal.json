@@ -1,5 +1,5 @@
 {
     "values": [
-        "log4mc:private/log/fatal/formatted"
+        "log4mc:private/logging/fatal/formatted"
     ]
 }
