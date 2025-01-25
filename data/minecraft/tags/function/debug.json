@@ -1,5 +1,5 @@
 {
     "values": [
-        "log4mc:private/log/debug/run"
+        "log4mc:private/log/debug/normal"
     ]
 }
