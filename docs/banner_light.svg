@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="113.85982mm"
+   height="23.706692mm"
+   viewBox="0 0 113.85982 23.706692"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="log4mc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0570195"
+     inkscape:cx="434.23986"
+     inkscape:cy="303.21106"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.231702,-26.425504)">
+    <path
+       style="font-size:33.8667px;font-family:Tektur;-inkscape-font-specification:'Tektur, @wght=700,wdth=90.0';font-variation-settings:'wdth' 90, 'wght' 700;fill:#333333;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+       d="M 43.231698,50.132194 V 26.425505 h 5.689605 v 18.965351 h 4.639739 v -4.741337 h 5.012272 v 9.482675 z M 60.706884,46.102057 V 30.455642 l 4.064005,-4.030137 h 9.550409 l 4.064004,4.030137 v 15.646415 l -4.064004,4.030137 h -9.550409 z m 5.892807,-14.664281 v 13.682147 h 5.892805 V 31.437776 Z M 81.026919,46.06819 V 30.489509 l 4.064004,-4.064004 h 11.514678 v 5.046138 h -9.85521 v 13.64828 H 92.60933 V 40.039918 H 89.12106 V 35.50178 h 8.500542 V 50.132194 H 85.090923 Z m 18.999221,-2.032001 0.77894,-17.610684 h 5.45254 l -0.6096,12.530679 h 5.3848 V 26.425505 h 5.62187 v 23.706689 h -5.62187 v -6.096005 z m 19.47333,6.096005 V 26.425505 h 6.26534 l 3.92854,9.042409 3.92853,-9.042409 h 6.23148 v 23.706689 h -5.52028 V 34.519646 l -3.69147,8.195741 h -1.89653 l -3.69147,-8.195741 V 50.132194 Z M 142.63045,46.06819 V 30.489509 l 4.064,-4.064004 h 10.12615 v 5.215472 h -8.19574 v 13.275746 h 8.46667 v 5.215471 h -10.39708 z"
+       id="text1"
+       aria-label="LOG4MC" />
+  </g>
+</svg>
