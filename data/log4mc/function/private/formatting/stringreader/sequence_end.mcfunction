@@ -1,0 +1,2 @@
+execute if score sequence_type log4mc.temp = #text log4mc.enum run function log4mc:private/formatting/stringreader/text/sequence_end
+execute if score sequence_type log4mc.temp = #score log4mc.enum run function log4mc:private/formatting/stringreader/score/sequence_end

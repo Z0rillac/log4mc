@@ -1,0 +1,1 @@
+function log4mc:private/formatting/stringbuilder/append/append with storage log4mc:macro

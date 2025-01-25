@@ -1,0 +1,1 @@
+scoreboard players operation sequence_type log4mc.temp = #text log4mc.enum

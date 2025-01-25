@@ -1,0 +1,2 @@
+$data modify storage log4mc:macro storage set string storage log4mc:temp string_copy $(sequence_start) $(sequence_end)
+function log4mc:private/formatting/stringreader/storage/append_storage_2 with storage log4mc:macro

@@ -15,3 +15,7 @@ scoreboard players set #tick log4mc.enum 2
 
 scoreboard players set #say_command log4mc.enum 1
 scoreboard players set #test_block log4mc.enum 2
+
+scoreboard players set #text log4mc.enum 1
+scoreboard players set #score log4mc.enum 2
+scoreboard players set #storage log4mc.enum 3

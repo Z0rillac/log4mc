@@ -1,0 +1,1 @@
+$data modify storage log4mc:macro stringbuilder set value "$(stringbuilder)$(string)"

@@ -1,0 +1,2 @@
+execute store success score separator_1_found log4mc.temp if data storage log4mc:temp {char:" "}
+execute if score separator_1_found log4mc.temp matches 1 run scoreboard players set separator_1 log4mc.temp 1
